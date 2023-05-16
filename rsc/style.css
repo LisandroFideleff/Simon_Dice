@@ -1,0 +1,17 @@
+.col{
+    color: white;
+    height: 20vh;
+    margin: 3px;
+}
+#azul{
+    background-color: blue;
+}
+#rojo{
+    background-color: red;
+}
+#verde{
+    background-color: green;
+}
+#chocolate{
+    background-color:chocolate;
+}
